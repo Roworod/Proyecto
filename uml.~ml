@@ -613,20 +613,20 @@
 <XPD:REF name="Views[3]">Dnxn00XuhESWUgWzhR4NuwAA</XPD:REF>
 <XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="qDZuvfTMz0CQK4fxrBttDwAA">
-<XPD:ATTR name="Name" type="string">eleccion</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">desicion</XPD:ATTR>
 <XPD:REF name="Owner">ezQsLpj+1E6zwNoO2AOgsgAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">3</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="sT7mlPTy8kuaYtudtmvQfQAA">
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="FFlPoz6w0UK0nletQ55x4gAA">
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">qDZuvfTMz0CQK4fxrBttDwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="rf8aWqwjlEWbZWLsXB2BDQAA">
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="V+R9z0uz506dUH5DTi5+6QAA">
 <XPD:ATTR name="Name" type="string">boolean</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">right</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">qDZuvfTMz0CQK4fxrBttDwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="F82Ccy2jq0u9TIjmQbjc5wAA">
+<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="pP7TulwgaU2MMJTVeX0y5QAA">
 <XPD:ATTR name="Name" type="string">boolean</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">front</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">qDZuvfTMz0CQK4fxrBttDwAA</XPD:REF>
