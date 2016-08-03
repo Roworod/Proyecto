@@ -1,0 +1,17 @@
+# Primera fase proyecto Robbin Woods, Gerardo Cardoza y Dieter de Wit 
+# Codigo en Rurple de Robot Wall Follower
+# Copiar y pegar a Rurple IDE
+
+while True:
+	if on_beeper():
+		pick_beeper()
+	elif got_beeper()
+		put_beeper()
+	if right_is_clear():
+		turn_left()
+		turn_left()
+		turn_left()
+	else:
+		while not front_is_clear():
+			turn_left()
+	move()
